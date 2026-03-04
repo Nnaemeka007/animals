@@ -3,3 +3,5 @@ Lakers
 Nets
 Wizards
 Warriors
+Rockets
+Clippers
