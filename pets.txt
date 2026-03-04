@@ -5,3 +5,5 @@ Wizards
 Warriors
 Rockets
 Clippers
+Hornets
+Bulls
